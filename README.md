@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @lionpyw
-- 👀 I’m interested in web development using python and javascript
+- 👀 I’m interested in web development using python and typescript
 - 🌱 I’m currently learning all technologies
-- 💞️ I’m looking to collaborate on web development projects invovling python
+- 🔭 Exploring and building with Python, JavaScript, C++, and C# | Open to collaborating on open-source and personal projects
+- 🤝 Open to contributing, code reviews, and team-based development
 - 📫 How to reach me: ...
 - ⚡ Fun fact: I have a mechanical engineering background
 
